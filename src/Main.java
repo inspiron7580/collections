@@ -9,6 +9,8 @@ public class Main {
         listUsers.add("West");
         listUsers.add("Andry");
         listUsers.add("Wotson");
+        listUsers.add("Darian");
+        listUsers.add("Haid");
         System.out.println(listUsers);
 
     }
